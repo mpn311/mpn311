@@ -24,12 +24,6 @@ Ideal for beginners seeking interactive, mobile-first coding education. 📱
 
 ---
 
-### 📈 GitHub Stats  
-![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpn31199&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mpn31199&layout=compact&theme=radical)
-
----
-
 ### 🔗 Connect  
 - [📱 APKZube App](https://apkzube.com/)
 - [📧 Email](mailto:apkzube@gmail.com)
