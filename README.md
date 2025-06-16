@@ -5,6 +5,7 @@
 📊 Working on:
 - Solar Panel Monitoring & Health Visualization 🌞  
 - Quantile Forecasting for Time Series Prediction 📈
+  
 🎯 Exploring Agentic RAG — designing LLM agents that actively retrieve, reason, and act over external knowledge to solve complex queries, combining memory, planning, and tool use.
 
 
