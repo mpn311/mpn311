@@ -12,8 +12,6 @@
 💼 Contributor at [APKZube](https://apkzube.com/), an Android platform for learning programming languages including C, C++, Java, and Python.  
 Ideal for beginners seeking interactive, mobile-first coding education. 📱  
 
-📫 Reach me at: **mpn31199@gmail.com**
-
 ---
 
 ### 🛠️ Technologies & Tools  
@@ -29,6 +27,6 @@ Ideal for beginners seeking interactive, mobile-first coding education. 📱
 
 ### 🔗 Connect  
 - [📱 APKZube App](https://apkzube.com/)  
-- 📧 Email: [mpn31199@gmail.com](mailto:mpn31199@gmail.com)
+- 📧[mpn31199@gmail.com](mailto:mpn31199@gmail.com)
 
 ---
