@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Milan
 
 🚀 MSc in Data Science | Research Enthusiast  
-🧠 Interests: Machine Learning, Deep Learning, , GenAI  
+🧠 Interests: Machine Learning, Deep Learning,GenAI  
 📊 Working on:
 - Solar Panel Monitoring & Health Visualization 🌞  
 - Quantile Forecasting for Time Series Prediction 📈
