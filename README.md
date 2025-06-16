@@ -6,7 +6,8 @@
 - Solar Panel Monitoring & Health Visualization 🌞  
 - Quantile Forecasting for Time Series Prediction 📈
   
-🎯 Exploring Agentic RAG — designing LLM agents that actively retrieve, reason, and act over external knowledge to solve complex queries, combining memory, planning, and tool use.
+🎯 Exploring Agentic RAG — designing LLM agents that actively retrieve, reason, and act over external knowledge 
+   solve complex queries, combining memory, planning, and tool use.
 
 
 💼 Contributor at [APKZube](https://apkzube.com/), an Android-based platform for learning programming languages including C, C++, Java, and Python.  
