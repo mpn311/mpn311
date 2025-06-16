@@ -28,7 +28,7 @@ Ideal for beginners seeking interactive, mobile-first coding education. 📱
 ---
 
 ### 🔗 Connect  
-- [📱 APKZube App](https://apkzube.com/)  
-- 📧[mpn31199@gmail.com](mailto:mpn31199@gmail.com)
+  - 📧[mpn31199@gmail.com](mailto:mpn31199@gmail.com)
+  - [📱 APKZube App](https://apkzube.com/)
 
 ---
