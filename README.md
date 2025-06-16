@@ -9,8 +9,12 @@
 
 🤝 Actively collaborating on AI problem-solving and research-based projects focused on real-world applications and experimentation.  
 
-💼 Contributor at [APKZube](https://apkzube.com/), an Android Application platform for learning programming languages including C, C++, Java, and Python.  
+💼 Contributor at [APKZube](https://apkzube.com/), an Android application platform for learning programming languages including C, C++, Java, and Python.  
 Ideal for beginners seeking interactive, mobile-first coding education. 📱  
+
+📲 [Learn Python Pro App on Play Store](https://play.google.com/store/apps/details?id=com.apkzube.learnpythonpro)  
+![Python](https://img.shields.io/badge/Learn%20Python-50K%2B%20Downloads-blue?style=flat&logo=python&logoColor=white)
+
 
 ---
 
