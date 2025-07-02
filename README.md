@@ -2,17 +2,10 @@
 
 🚀 MSc in Data Science | Research Enthusiast  
 🧠 Interests: Machine Learning, Deep Learning, GenAI  
-📊 Working on:
-- Solar Panel Monitoring & Health Visualization 🌞  
-- Quantile Forecasting for Time Series Prediction 📈  
-- Agentic RAG — designing LLM agents that actively retrieve, reason, and act over external knowledge to solve complex queries using memory, planning, and tool use 🤖  
-
+  
 🤝 Actively collaborating on AI problem-solving and research-based projects focused on real-world applications and experimentation.  
 
-💼 Contributor at [APKZube](https://apkzube.com/), an Android application platform for learning programming languages including C, C++, Java, and Python.  
-Ideal for beginners seeking interactive, mobile-first coding education. 📱  
-
-📲 [Learn Python Pro App on Play Store](https://play.google.com/store/apps/details?id=com.apkzube.learnpythonpro)  
+ 📲 [Learn Python Pro App on Play Store](https://play.google.com/store/apps/details?id=com.apkzube.learnpythonpro)  
 
 ![Python](https://img.shields.io/badge/Learn%20Python-50K%2B%20Downloads-black?style=flat&logo=python&logoColor=blue)
 
